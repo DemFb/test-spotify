@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+ .Content{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+
+ .Cards{
+  border: 1px grey solid;
+  border-radius: 0.5rem;
+  width: 500px;
+  height: 340px;
+  padding: 20px;
+  margin: 1.5rem;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
